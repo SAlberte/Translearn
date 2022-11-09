@@ -1,0 +1,23 @@
+.Footer {
+    bottom: 0;
+    background-color: rgb(115, 169, 173);
+}
+
+.LogoText {
+    padding: 10px;
+    color: #3426eb
+}
+
+.Separator {
+    height: 2px;
+    background: #D6D6D6;
+
+}
+
+@media only screen and (min-width:600px) {
+    .Footer {
+        max-width: 472px;
+        margin: 0 auto;
+        padding: .5rem 0;
+    }
+}
