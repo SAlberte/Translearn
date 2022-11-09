@@ -1,3 +1,3 @@
 # TRANSLEARN
 
-An application for translating and memorizing words.
+Web application for translating and memorizing words.
